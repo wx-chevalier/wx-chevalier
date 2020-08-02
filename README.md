@@ -2,11 +2,11 @@
 <br />
 <p align="center">
   <a href="https://github.com/wx-chevalier/repo">
-    <img src="./header.svg" alt="Logo" style="width: 100vw;height: 400px" />
+    <img src="https://raw.githubusercontent.com/wx-chevalier/wx-chevalier/master/header.svg " alt="Logo" style="width: 100vw;height: 400px" />
   </a>
 
   <p align="center">
-    <strong><a href="https://github.com/wx-chevalier/repo">笔记在线阅读</a></strong>
+    <strong><a href="(https://ng-tech.icu/books/">笔记在线阅读</a></strong>
     <br />
     <br />
     <a href="https://github.com/wx-chevalier/repo">Frontend</a>
