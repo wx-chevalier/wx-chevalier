@@ -6,7 +6,7 @@
   </a>
 
   <p align="center" style="font-size: 20px">
-    <strong><a href="(https://ng-tech.icu/books/">笔记在线阅读</a></strong>
+    <strong><a href="https://ng-tech.icu/books/">笔记在线阅读</a></strong>
     <br />
     <br />
     <a href="https://github.com/Dev-Snippets">数据结构与算法</a>
