@@ -2,18 +2,20 @@
 <br />
 <p align="center">
   <a href="https://github.com/wx-chevalier/repo">
-    <img src="https://raw.githubusercontent.com/wx-chevalier/wx-chevalier/master/header.svg " alt="Logo" style="width: 100vw;height: 400px" />
+    <img src="https://raw.githubusercontent.com/wx-chevalier/wx-chevalier/master/header.svg" alt="Logo" style="width: 100vw;height: 400px" />
   </a>
 
-  <p align="center">
+  <p align="center" style="font-size: 20px">
     <strong><a href="(https://ng-tech.icu/books/">笔记在线阅读</a></strong>
     <br />
     <br />
-    <a href="https://github.com/wx-chevalier/repo">Frontend</a>
+    <a href="https://github.com/Dev-Snippets">数据结构与算法</a>
     ·
-    <a href="https://github.com/wx-chevalier/repo/issues">Backend</a>
+    <a href="https://github.com/FE-Kits">前端项目</a>
     ·
-    <a href="https://github.com/wx-chevalier/repo/issues">AI</a>
+    <a href="https://github.com/BE-Kits">后端项目</a>
+    ·
+    <a href="https://github.com/AI-Kits">AI 项目</a>
 
   </p>
 
