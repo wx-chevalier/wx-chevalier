@@ -17,9 +17,11 @@
 
   </p>
 
-  <a href="https://github.com/wx-chevalier/repo">
-    <img src="https://github-readme-stats.vercel.app/api?username=wx-chevalier" alt="Logo" style="width: 100vw;height: 400px" />
-  </a>
+  <p align="center">
+    <a href="https://github.com/wx-chevalier/repo">
+        <img src="https://github-readme-stats.vercel.app/api?username=wx-chevalier" alt="Logo" style="width: 100vw;height: 400px" />
+    </a>
+  </p>
 </p>
 
 在这个知识大爆发的时代，笔者所见许多人面临的问题不再是知识的匮乏，也不是缺乏学习的动力、毅力或激情，而是在浩汤洪流之中迷失了方向，也无足够的承载知识的容器，终致学的越多，忘的越多，竹篮打水一场空。[某熊的技术之路系列文章、书籍、视频、代码、项目](https://github.com/wx-chevalier)即是笔者为自己构建的**知识围栏**，纳知识与己内；也是笔者蹒跚行进于这条路上的点滴印记，包含了笔者作为程序员的技术视野、知识管理与职业规划，致力于提升开发者的学习效率与实际研发效能。
