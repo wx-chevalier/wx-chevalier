@@ -2,7 +2,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/wx-chevalier/repo">
-    <img src="https://raw.githubusercontent.com/wx-chevalier/wx-chevalier/master/header.svg" alt="Logo" style="width: 100vw;height: 400px" />
+    <img src="https://raw.githubusercontent.com/wx-chevalier/wx-chevalier/master/header.svg" alt="Logo" style="width: 100vw;height: 200px" />
   </a>
 
   <p align="center" style="font-size: 20px">
