@@ -6,17 +6,7 @@
   </a>
 
   <p align="center" style="font-size: 20px">
-    <strong><a href="https://ng-tech.icu/books/">笔记在线阅读</a></strong>
-    <br />
-    <br />
-    <a href="https://github.com/Dev-Snippets">数据结构与算法</a>
-    ·
-    <a href="https://github.com/FE-Kits">前端项目</a>
-    ·
-    <a href="https://github.com/BE-Kits">后端项目</a>
-    ·
-    <a href="https://github.com/AI-Kits">AI 项目</a>
-
+    <strong><a href="https://ng-tech.icu/books/">在线阅读数千篇编程笔记</a></strong>
   </p>
 
   <p align="center">
