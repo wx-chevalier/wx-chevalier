@@ -17,7 +17,7 @@
 
 ## 编程笔记
 
-编程笔记系列，已有数十仓库千篇文章百万字，涵盖了 [编程语言](https://github.com/wx-chevalier/PLT-Series)、[软件工程、模式与架构](https://github.com/wx-chevalier/SoftwareArchitecture-Series)、[Web 与大前端](https://github.com/wx-chevalier/Web-Series)、[服务端架构](https://github.com/wx-chevalier/MicroHA-Series)、[分布式基础架构](https://github.com/wx-chevalier/DistributedSystem-Series)、[数据科学，人工智能与深度学习](https://github.com/wx-chevalier/AI-Series)。你可以在[某熊的技术之路指北 ☯](https://github.com/wx-chevalier/Developer-Zero-To-Mastery)查阅详细的导航；或直接前往 [NGTE Books](https://ng-tech.icu/books/) 主页浏览包含知识体系、编程语言、软件工程、模式与架构、Web 与大前端、服务端开发实践与工程架构、分布式基础架构、人工智能与深度学习、产品运营与创业等多类目的书籍列表：
+编程笔记系列，已有数十仓库千篇文章百万字，涵盖了 [编程语言](https://github.com/wx-chevalier/PLT-Series)、[软件工程、模式与架构](https://github.com/wx-chevalier/SoftwareArchitecture-Series)、[Web 与大前端](https://github.com/wx-chevalier/Web-Series)、[服务化应用架构](https://github.com/wx-chevalier/MicroHA-Series)、[云与分布式系统](https://github.com/wx-chevalier/DistributedSystem-Series)、[数据科学，人工智能与深度学习](https://github.com/wx-chevalier/AI-Series)。你可以在[某熊的技术之路指北 ☯](https://github.com/wx-chevalier/Developer-Zero-To-Mastery)查阅详细的导航；或直接前往 [NGTE Books](https://ng-tech.icu/books/) 主页浏览包含知识体系、编程语言、软件工程、模式与架构、Web 与大前端、服务端开发实践与工程架构、分布式基础架构、人工智能与深度学习、产品运营与创业等多类目的书籍列表：
 
 [![NGTE Books](https://s2.ax1x.com/2020/01/18/19uXtI.png)](https://ng-tech.icu/books/)
 
