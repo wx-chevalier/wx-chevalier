@@ -2,17 +2,12 @@
 <br />
 <p align="center">
   <a href="https://github.com/wx-chevalier">
-    <img src="https://raw.githubusercontent.com/wx-chevalier/wx-chevalier/master/header.svg" alt="Logo" style="width: 100vw;height: 200px" />
+    <img src="https://raw.githubusercontent.com/wx-chevalier/wx-chevalier/master/header.svg" alt="Logo" style="width: 50vw;height: 200px" />
+    <img src="https://github-readme-stats.vercel.app/api?username=wx-chevalier" alt="Logo" style="width: 50vw;height: 400px" />
   </a>
 
   <p align="center" style="font-size: 20px">
     <strong><a href="https://ng-tech.icu/books/">在线阅读数千篇编程笔记</a></strong>
-  </p>
-
-  <p align="center">
-    <a href="https://github.com/wx-chevalier/repo">
-        <img src="https://github-readme-stats.vercel.app/api?username=wx-chevalier" alt="Logo" style="width: 100vw;height: 400px" />
-    </a>
   </p>
 </p>
 
