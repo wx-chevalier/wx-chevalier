@@ -24,3 +24,5 @@
 ## 代码实践
 
 对应于笔者的知识体系，也为了更好地进行管理协作，笔者将数十个仓库划分到了 [Dev-Snippets](https://github.com/Dev-Snippets)、[FE-Kits](https://github.com/FE-Kits)、[BE-Kits](https://github.com/BE-Kits)、[AI-Kits](https://github.com/AI-Kits) 等不同的标签中，可以直接按照标签检索。
+
+- [m-fe-* 系列项目](https://github.com/wx-chevalier?tab=repositories&q=m-fe&type=&language=): 微前端工程化系统项目，包含了前端开发基础脚手架、React/Vue/Node/Electron/Taro 以及各种微前端模板。
