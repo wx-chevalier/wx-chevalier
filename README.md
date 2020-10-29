@@ -26,3 +26,5 @@
 对应于笔者的知识体系，也为了更好地进行管理协作，笔者将数十个仓库划分到了包含脚手架、前端、后端、基础架构等不同的系列中，可以直接按照标签/前缀检索。
 
 - [m-fe-* 系列项目](https://github.com/wx-chevalier?tab=repositories&q=m-fe&type=&language=): 微前端工程化系统项目，包含了前端开发基础脚手架、React/Vue/Node/Electron/Taro 以及各种微前端模板。
+
+- [fractal-components 系列项目](https://github.com/topics/fractal-components)：包含 Web 电子白板、Excel 全栈解决方案等一系列项目。
