@@ -25,13 +25,13 @@
 
 对应于笔者的知识体系，也为了更好地进行管理协作，笔者将数十个仓库划分到了包含脚手架、前端、后端、基础架构等不同的系列中，可以直接按照标签/前缀检索。
 
+- [dd-* 系列](https://github.com/wx-chevalier?tab=repositories&q=dd-&type=&language=): Development & Docs，笔者的开发与文档编写系列项目。
+
 ### 大前端系列
 
 - [m-fe-* 系列](https://github.com/wx-chevalier?tab=repositories&q=m-fe&type=&language=): 微前端工程化系统项目，包含了前端开发基础脚手架、React/Vue/Node/Electron/Taro 以及各种微前端模板。
 
 - [fractal-components 系列](https://github.com/topics/fractal-components)：包含 Web 电子白板、Excel 全栈解决方案等一系列项目。
-
-- [dd-* 系列](https://github.com/wx-chevalier?tab=repositories&q=dd-&type=&language=): Development & Docs，笔者的开发与文档编写系列项目。
 
 - [3d-* 系列](https://github.com/wx-chevalier?tab=repositories&q=dd-&type=&language=): 3D 模型在线预览、处理等系列项目。
 
@@ -43,6 +43,11 @@
 
 - [reinvent-* 系列](https://github.com/wx-chevalier?tab=repositories&q=reinvent-&type=&language=): 一系列从零开始实现分布式系统、数据库、微服务框架等。
 
-- [memi-* 系列](https://github.com/wx-chevalier?tab=repositories&q=memi-&type=&language=): 构建业务中台的一系列项目。
+- [memi-* 系列](https://github.com/wx-chevalier?tab=repositories&q=memi-&type=&language=): 构建业务中台的一系列项目，包含了跨领域 Schema 定义等。
 
-### 算法系列
+- [sentinel-* 系列](https://github.com/wx-chevalier?tab=repositories&q=sentinel-&type=&language=): 信息安全与渗透测试相关项目，包含了分布式扫描器、异构爬虫等。
+
+### AI 与算法系列
+
+- [ai-* 系列](https://github.com/wx-chevalier?tab=repositories&q=ai-&type=&language=): 人工智能与算法相关一系列项目。
+
