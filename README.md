@@ -33,8 +33,16 @@
 
 - [dd-* 系列](https://github.com/wx-chevalier?tab=repositories&q=dd-&type=&language=): Development & Docs，笔者的开发与文档编写系列项目。
 
-### 后端系列
+- [3d-* 系列](https://github.com/wx-chevalier?tab=repositories&q=dd-&type=&language=): 3D 模型在线预览、处理等系列项目。
+
+- [ueme-* 系列](https://github.com/wx-chevalier?tab=repositories&q=ueme-&type=&language=): 构建用户体验中台系列项目。
+
+### 后端与应用系列
+
+- [ms-* 系列](https://github.com/wx-chevalier?tab=repositories&q=ms-&type=&language=): 构建微服务&云原生应用的一系列项目。
 
 - [reinvent-* 系列](https://github.com/wx-chevalier?tab=repositories&q=reinvent-&type=&language=): 一系列从零开始实现分布式系统、数据库、微服务框架等。
+
+- [memi-* 系列](https://github.com/wx-chevalier?tab=repositories&q=memi-&type=&language=): 构建业务中台的一系列项目。
 
 ### 算法系列
