@@ -7,7 +7,7 @@
   </a>
 
   <p align="center" style="font-size: 20px">
-    <strong><a href="https://ng-tech.icu/books/">在线阅读数千篇编程笔记</a></strong>
+    <strong><a href="https://ng-tech.icu/books/" style="font-size: 20px"><h2 align="center">NGTE Books, 在线阅读数千篇编程笔记</h2></a></strong>
   </p>
 </p>
 
