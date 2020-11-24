@@ -51,3 +51,6 @@
 
 - [ai-* 系列](https://github.com/wx-chevalier?tab=repositories&q=ai-&type=&language=): 人工智能与算法相关一系列项目。
 
+# About Me
+
+![Waka](https://wakatime.com/share/@91f46015-04b7-45f8-9556-afbfd35b9754/6c5a9a1a-c51a-40d2-9da2-aea05c5af72a.png)
