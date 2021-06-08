@@ -25,6 +25,8 @@ NGTE 意为 Next-generation Technology Education，聊表笔者面向未来，�
 
 对应于笔者的知识体系，也为了更好地进行管理协作，笔者将数十个仓库划分到了包含脚手架、前端、后端、基础架构等不同的系列中，可以直接按照标签/前缀检索。
 
+- [*-examples 系列](https://github.com/wx-chevalier?tab=repositories&q=-examples&type=&language=): 文档关联的代码案例
+
 - [dd-* 系列](https://github.com/wx-chevalier?tab=repositories&q=dd-&type=&language=): Development & Docs，笔者的开发与文档编写系列项目。
 
 ### 大前端系列
