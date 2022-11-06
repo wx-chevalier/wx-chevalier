@@ -8,7 +8,7 @@
   </a>
 
   <p align="center" style="font-size: 20px">
-    <strong><a href="https://ng-tech.icu/books/" style="font-size: 20px"><h2 align="center">点击前往 NGTE Books Online, 在线阅读数千篇编程笔记</h2></a></strong>
+    <strong><a href="https://ng-tech.icu/books-gallery/" style="font-size: 20px"><h2 align="center">点击前往 NGTE Books Online, 在线阅读数千篇编程笔记</h2></a></strong>
   </p>
 </p>
 
@@ -18,42 +18,42 @@ NGTE 意为 Next-generation Technology Education，聊表笔者面向未来，�
 
 ## 编程笔记
 
-编程笔记系列，已有数十仓库千篇文章百万字，涵盖了 [编程语言](https://github.com/wx-chevalier/Java-Series)、[算法与软件架构](https://github.com/wx-chevalier/SoftwareArchitecture-Series)、[Web 与大前端](https://github.com/wx-chevalier/Web-Series)、[服务端开发、运维与高可用](https://github.com/wx-chevalier/MicroCN-Series)、[云与分布式基础架构](https://github.com/wx-chevalier/DistributedSystem-Series)、[人工智能与深度学习](https://github.com/wx-chevalier/AI-Series)。你可以在[某熊的技术之路指北 ☯](https://github.com/wx-chevalier/Developer-Zero-To-Mastery)查阅详细的导航；或直接前往 [NGTE Books](https://wx-chevalier.github.io/) 主页浏览包含知识体系、编程语言、软件工程、模式与架构、Web 与大前端、服务端开发实践与工程架构、分布式基础架构、人工智能与深度学习、产品运营与创业等多类目的书籍列表：
+编程笔记系列，已有数十仓库千篇文章百万字，涵盖了 [编程语言](https://github.com/wx-chevalier/PLT-Series)、[算法与软件架构](https://github.com/wx-chevalier/SoftwareArchitecture-Series)、[Web 与大前端](https://github.com/wx-chevalier/Web-Series)、[服务端开发、运维与高可用](https://github.com/wx-chevalier/MicroCN-Series)、[云与分布式基础架构](https://github.com/wx-chevalier/DistributedSystem-Series)、[人工智能与深度学习](https://github.com/wx-chevalier/AI-Series)。你可以在[某熊的技术之路指北 ☯](https://github.com/wx-chevalier/Developer-Zero-To-Mastery)查阅详细的导航；或直接前往 [NGTE Books](https://ng-tech.icu/books-gallery/) 主页浏览包含知识体系、编程语言、软件工程、模式与架构、Web 与大前端、服务端开发实践与工程架构、分布式基础架构、人工智能与深度学习、产品运营与创业等多类目的书籍列表：
 
-[![NGTE Books](https://s2.ax1x.com/2020/01/18/19uXtI.png)](https://wx-chevalier.github.io/)
+[![NGTE Books](https://s2.ax1x.com/2020/01/18/19uXtI.png)](https://ng-tech.icu/books-gallery/)
 
 ## 代码实践
 
 对应于笔者的知识体系，也为了更好地进行管理协作，笔者将数十个仓库划分到了包含脚手架、前端、后端、基础架构等不同的系列中，可以直接按照标签/前缀检索。
 
-- [*-examples 系列](https://github.com/wx-chevalier?tab=repositories&q=-examples&type=&language=): 文档关联的代码案例
+- [\*-examples 系列](https://github.com/wx-chevalier?tab=repositories&q=-examples&type=&language=): 文档关联的代码案例
 
-- [dd-* 系列](https://github.com/wx-chevalier?tab=repositories&q=dd-&type=&language=): Development & Docs，笔者的开发与文档编写系列项目。
+- [dd-\* 系列](https://github.com/wx-chevalier?tab=repositories&q=dd-&type=&language=): Development & Docs，笔者的开发与文档编写系列项目。
 
 ### 大前端系列
 
-- [m-fe-* 系列](https://github.com/wx-chevalier?tab=repositories&q=m-fe&type=&language=): 微前端工程化系统项目，包含了前端开发基础脚手架、React/Vue/Node/Electron/Taro 以及各种微前端模板。
+- [m-fe-\* 系列](https://github.com/wx-chevalier?tab=repositories&q=m-fe&type=&language=): 微前端工程化系统项目，包含了前端开发基础脚手架、React/Vue/Node/Electron/Taro 以及各种微前端模板。
 
 - [fractal-components 系列](https://github.com/topics/fractal-components)：包含 Web 电子白板、Excel 全栈解决方案等一系列项目。
 
-- [3d-* 系列](https://github.com/wx-chevalier?tab=repositories&q=dd-&type=&language=): 3D 模型在线预览、处理等系列项目。
+- [3d-\* 系列](https://github.com/wx-chevalier?tab=repositories&q=dd-&type=&language=): 3D 模型在线预览、处理等系列项目。
 
-- [ueme-* 系列](https://github.com/wx-chevalier?tab=repositories&q=ueme-&type=&language=): 构建用户体验中台系列项目。
+- [ueme-\* 系列](https://github.com/wx-chevalier?tab=repositories&q=ueme-&type=&language=): 构建用户体验中台系列项目。
 
 ### 后端与应用系列
 
-- [ms-* 系列](https://github.com/wx-chevalier?tab=repositories&q=ms-&type=&language=): 构建微服务&云原生应用的一系列项目。
+- [ms-\* 系列](https://github.com/wx-chevalier?tab=repositories&q=ms-&type=&language=): 构建微服务&云原生应用的一系列项目。
 
-- [reinvent-* 系列](https://github.com/wx-chevalier?tab=repositories&q=reinvent-&type=&language=): 一系列从零开始实现分布式系统、数据库、微服务框架等。
+- [reinvent-\* 系列](https://github.com/wx-chevalier?tab=repositories&q=reinvent-&type=&language=): 一系列从零开始实现分布式系统、数据库、微服务框架等。
 
-- [memi-* 系列](https://github.com/wx-chevalier?tab=repositories&q=memi-&type=&language=): 构建业务中台的一系列项目，包含了跨领域 Schema 定义等。
+- [memi-\* 系列](https://github.com/wx-chevalier?tab=repositories&q=memi-&type=&language=): 构建业务中台的一系列项目，包含了跨领域 Schema 定义等。
 
-- [sentinel-* 系列](https://github.com/wx-chevalier?tab=repositories&q=sentinel-&type=&language=): 信息安全与渗透测试相关项目，包含了分布式扫描器、异构爬虫等。
+- [sentinel-\* 系列](https://github.com/wx-chevalier?tab=repositories&q=sentinel-&type=&language=): 信息安全与渗透测试相关项目，包含了分布式扫描器、异构爬虫等。
 
 ### AI 与算法系列
 
-- [ai-* 系列](https://github.com/wx-chevalier?tab=repositories&q=ai-&type=&language=): 人工智能与算法相关一系列项目。
+- [ai-\* 系列](https://github.com/wx-chevalier?tab=repositories&q=ai-&type=&language=): 人工智能与算法相关一系列项目。
 
 # About Me
 
-![Waka](https://wakatime.com/share/@91f46015-04b7-45f8-9556-afbfd35b9754/6c5a9a1a-c51a-40d2-9da2-aea05c5af72a.png)
+# ![Waka](https://wakatime.com/share/@91f46015-04b7-45f8-9556-afbfd35b9754/6c5a9a1a-c51a-40d2-9da2-aea05c5af72a.png)
