@@ -18,7 +18,27 @@ NGTE 意为 Next-generation Technology Education，聊表笔者面向未来，�
 
 ## 编程笔记
 
-编程笔记系列，已有数十仓库千篇文章百万字，涵盖了 [编程语言](https://github.com/wx-chevalier/PLT-Series)、[算法与软件架构](https://github.com/wx-chevalier/SoftwareArchitecture-Series)、[Web 与大前端](https://github.com/wx-chevalier/Web-Series)、[服务端开发、运维与高可用](https://github.com/wx-chevalier/MicroCN-Series)、[云与分布式基础架构](https://github.com/wx-chevalier/DistributedSystem-Series)、[人工智能与深度学习](https://github.com/wx-chevalier/AI-Series)。你可以在[某熊的技术之路指北 ☯](https://github.com/wx-chevalier/Developer-Zero-To-Mastery)查阅详细的导航；或直接前往 [NGTE Books](https://ng-tech.icu/books-gallery/) 主页浏览包含知识体系、编程语言、软件工程、模式与架构、Web 与大前端、服务端开发实践与工程架构、分布式基础架构、人工智能与深度学习、产品运营与创业等多类目的书籍列表：
+编程笔记系列，已有数十仓库千篇文章百万字：
+
+- 知识体系：[《Awesome Lists | CS 资料集锦》](https://ng-tech.icu/books/Awesome-Lists)、[《Awesome CheatSheets | 速学速查手册》](https://ng-tech.icu/books/Awesome-CheatSheets)、[《Awesome Interviews | 求职面试必备》](https://ng-tech.icu/books/Awesome-Interviews)、[《Awesome RoadMaps | 程序员进阶指南》](https://ng-tech.icu/books/Awesome-RoadMaps)、[《Awesome MindMaps | 知识脉络思维脑图》](https://ng-tech.icu/books/Awesome-MindMaps)、[《Awesome-CS-Books | 开源书籍（.pdf）汇总》](https://github.com/wx-chevalier/Awesome-CS-Books)
+
+- 编程语言：[《编程语言理论》](https://ng-tech.icu/books/ProgrammingLanguage-Notes/#/)、[《Java 实战](https://ng-tech.icu/books/Java-Notes)、[《JavaScript 实战》](https://ng-tech.icu/books/JavaScript-Notes)、[《Go 实战》](https://ng-tech.icu/books/Go-Notes)、[《Python 实战》](https://ng-tech.icu/books/ProgrammingLanguage-Notes/#/)、[《Rust 实战》](https://ng-tech.icu/books/ProgrammingLanguage-Notes/#/)
+
+- 软件工程、模式与架构：[《编程范式与设计模式》](https://ng-tech.icu/books/DesignPattern-Notes/)、[《数据结构与算法》](https://ng-tech.icu/books/AlgoDS-Notes/)、[《软件架构设计》](https://ng-tech.icu/books/SoftwareArchitecture-Notes/)、[《整洁与重构》](https://ng-tech.icu/books/SoftwareEngineering-Notes/)、[《协作与项目管理》](https://ng-tech.icu/books/SoftwareEngineering-Notes/)》
+
+* Web 与大前端：[《现代 Web 全栈开发与工程架构》](https://ng-tech.icu/books/Web-Notes/)、[《数据可视化](https://ng-tech.icu/books/Frontend-Notes/)、[《iOS》](https://ng-tech.icu/books/Frontend-Notes/)、[《Android》](https://ng-tech.icu/books/Frontend-Notes/)、[《混合开发与跨端应用》](https://ng-tech.icu/books/Web-Notes/)、[《Node.js 全栈开发》](https://ng-tech.icu/books/Node-Notes/)
+
+* 服务端开发实践与工程架构：[《服务端功能域》](https://ng-tech.icu/books/Backend-Notes/#/)、[《微服务与云原生](https://ng-tech.icu/books/MicroService-Notes/#/)、[《测试与高可用保障》](https://ng-tech.icu/books/Backend-Notes/#/)、[《DevOps》](https://ng-tech.icu/books/Backend-Notes/#/)、[《Spring》](https://ng-tech.icu/books/Spring-Notes/#/)、[《信息安全与渗透测试》](https://ng-tech.icu/books/Backend-Notes/#/)
+
+* 分布式基础架构：[《分布式系统》](https://ng-tech.icu/books/DistributedSystem-Notes/#/)、[《分布式计算》](https://ng-tech.icu/books/DistributedSystem-Notes/#/)、[《数据库》](https://github.com/wx-chevalier/Database-Notes)、[《网络》](https://ng-tech.icu/books/DistributedSystem-Notes/#/)、[《虚拟化与云计算》](https://github.com/wx-chevalier/Cloud-Notes)、[《Linux 与操作系统》](https://github.com/wx-chevalier/Linux-Notes)
+
+* 数据科学，人工智能与深度学习：[《数理统计》](https://ng-tech.icu/books/Mathematics-Notes/#/)、[《数据分析](https://ng-tech.icu/books/AI-Notes/#/)、[《机器学习》](https://ng-tech.icu/books/AI-Notes/#/)、[《深度学习](https://ng-tech.icu/books/AI-Notes/#/)、[《自然语言处理》](https://ng-tech.icu/books/AI-Notes/#/)、[《工具与工程化》](https://ng-tech.icu/books/AI-Notes/#/)、[《行业应用》](https://ng-tech.icu/books/AI-Notes/#/)
+
+* 产品设计与用户体验：[《产品设计》](https://ng-tech.icu/books/Product-Notes/#/)、[《交互体验](https://ng-tech.icu/books/Product-Notes/#/)、[《项目管理》](https://ng-tech.icu/books/Product-Notes/#/)
+
+* 行业应用：[《行业迷思》](https://github.com/wx-chevalier/Business-Notes)、[《功能域》](https://github.com/wx-chevalier/Business-Notes)、[《电子商务](https://github.com/wx-chevalier/Business-Notes)、[《智能制造》](https://github.com/wx-chevalier/Business-Notes)
+
+此外，你还可前往 [NGTE Website](https://ng-tech.icu/books/) 交互式地检索、查找需要的文章/链接/书籍/课程；或者也可以关注微信公众号：**某熊的技术之路**以获取最新资讯。
 
 [![NGTE Books](https://s2.ax1x.com/2020/01/18/19uXtI.png)](https://ng-tech.icu/books-gallery/)
 
