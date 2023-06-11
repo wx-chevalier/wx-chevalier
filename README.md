@@ -1,6 +1,6 @@
 <!-- PROJECT LOGO -->
 <br />
-<p align="center">
+<p align="center" style="display:flex">
   <a href="https://github.com/wx-chevalier" style="display: flex">
     <img src="https://raw.githubusercontent.com/wx-chevalier/wx-chevalier/master/header.svg" alt="Logo" style="width: 50%;height: 200px" />
     <img src="https://github-readme-stats.vercel.app/api?username=wx-chevalier" alt="Logo" style="width: 50%;height: 400px" />
